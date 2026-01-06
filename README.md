@@ -25,7 +25,7 @@ Git (optional, for cloning)
 
 Installation Steps
 Clone the repository:
-  git clone https://github.com/Mamy32/AlgoPro_Final-Project.git
+  git clone https://github.com/Mamy32/AlgoPro_Final-Project.git and
   cd AlgoPro_Final-Project
   
 After that you just exeecute line of code bellow
